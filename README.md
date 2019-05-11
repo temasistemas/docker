@@ -12,4 +12,10 @@ Vídeos do Workshop Docker 11/05/2019
 
 [Docker Images Pull](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Images_Pull.mp4)
 
+[Docker Images Run, Ps e Inspect](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Run_Ps_Inspect.mp4)
+
+[Docker Images Stop e Start](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Stop_Start.mp4)
+
 [Docker build - Passo01](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo01.mp4)
+
+[Docker build - Passo02](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo02.mp4)
