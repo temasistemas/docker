@@ -1,0 +1,8 @@
+version: '3'
+services:
+  sitelocal:
+    image: "temasistemas/site:localtime"
+    ports:
+    - "85:80"
+  sitecomp:
+    image: "temasistemas/site:completo"
