@@ -16,6 +16,11 @@ Vídeos do Workshop Docker 11/05/2019
 
 [Docker Images Stop e Start](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Stop_Start.mp4)
 
+[Docker Login, Logs e Exec](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Login_Logs_Exec.mp4)
+
 [Docker build - Passo01](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo01.mp4)
 
 [Docker build - Passo02](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo02.mp4)
+
+[Docker build - Passo03](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo03.mp4)
+
