@@ -27,3 +27,9 @@ Vídeos do Workshop Docker 11/05/2019
 [Docker build - Passo03](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo03.mp4)
 
 [Docker build - Passo04](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo04.mp4)
+
+[Docker build - Passo05](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo05.mp4)
+
+[Docker build - Passo06](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo06.mp4)
+
+[Docker-compose introdução](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Compose.mp4)
