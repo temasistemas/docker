@@ -8,6 +8,8 @@ Os exemplos de compilção estão disponíveis em https://github.com/temasistema
 
 Vídeos do Workshop Docker 11/05/2019
 
-[Docker Comandos básicos]()
+[Docker Introdução](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Introducao.mp4)
 
-[Docker build]()
+[Docker Images Pull](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Images_Pull.mp4)
+
+[Docker build - Passo01](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo01.mp4)
