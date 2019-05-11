@@ -12,9 +12,9 @@ Vídeos do Workshop Docker 11/05/2019
 
 [Docker Images Pull](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Images_Pull.mp4)
 
-[Docker Images Run, Ps e Inspect](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Run_Ps_Inspect.mp4)
+[Docker Run, Ps e Inspect](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Run_Ps_Inspect.mp4)
 
-[Docker Images Stop e Start](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Stop_Start.mp4)
+[Docker Stop e Start](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Stop_Start.mp4)
 
 [Docker Login, Logs e Exec](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Login_Logs_Exec.mp4)
 
