@@ -18,6 +18,8 @@ Vídeos do Workshop Docker 11/05/2019
 
 [Docker Login, Logs e Exec](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Login_Logs_Exec.mp4)
 
+[Docker Cp, Volumes e Conclusão](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerComandosBasicos_Cp_Volume_Conclusao.mp4)
+
 [Docker build - Passo01](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo01.mp4)
 
 [Docker build - Passo02](https://github.com/temasistemas/docker/blob/master/videos/WorkShopDockerBuild_Passo02.mp4)
