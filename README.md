@@ -6,6 +6,6 @@ Acesso ao docker Hub com os exemplos
 
 Os exemplos de compilção estão disponíveis em https://github.com/temasistemas/docker/tree/master/nginx-site
 
-[Vídeos](https://github.com/temasistemas/docker/blob/master/videos) do Workshop Docker 11/05/2019
+Vídeos do Workshop Docker 11/05/2019
 
 [PlayList youtube](https://www.youtube.com/playlist?list=PLbujWf6bolNaavMDmgTmC5N44CYopRnG1)
