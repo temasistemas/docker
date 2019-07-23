@@ -8,4 +8,4 @@ Os exemplos de compilção estão disponíveis em https://github.com/temasistema
 
 Vídeos do Workshop Docker 11/05/2019
 
-[PlayList youtube](https://www.youtube.com/playlist?list=PLbujWf6bolNaavMDmgTmC5N44CYopRnG1)
+[PlayList youtube](https://www.youtube.com/playlist?list=PLPJG8GBGjuWDwlkvpLux899fe2VB6RbDu)
